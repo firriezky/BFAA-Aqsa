@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lab Git Aqsa</string>
+    <string name="title_activity_main_menu">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="temp_1">User Name Here</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nothing">No Data</string>
+    <string name="about_me">\"About Me \"</string>
+    <string name="idle_text">Lets Find Inspiration at Github</string>
+    <string name="idle_text_fav">Lets Find your favorite user</string>
+    <string name="error">Error , Terjadi Kesalahan Teknis,  Swipe Halaman Untuk Merefresh</string>
+    <string name="refresh">Refresh</string>
+    <string name="success_add">Added to favorite list</string>
+    <string name="success_remove">Removed from favorite list</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="change_lang">Change Language</string>
+    <string name="reminder_every_9am">Reminder Every 9 in morning</string>
+    <string name="change_language">Change Language</string>
+    <string name="reminder">Reminder</string>
+    <string name="cancel_alarm">Reminder Canceled</string>
+    <string name="yuk">Lets Check Github App</string>
+    <string name="my_awesome_title">My awesome title</string>
+    <string name="back_btn">Back Button</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="translate">Translate</string>
+</resources>

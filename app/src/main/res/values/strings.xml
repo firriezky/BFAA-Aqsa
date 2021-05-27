@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lab Git Aqsa</string>
+    <string name="title_activity_main_menu">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="temp_1">Nama User Disini</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nothing">Tidak Ada</string>
+    <string name="about_me">\"About Me \"</string>
+    <string name="idle_text">Ayo Mulai Cari Inspirasi di Github</string>
+    <string name="idle_text_fav">Ayo Mulai Cari User Favoritmu di Github</string>
+    <string name="error">Error , Terjadi Kesalahan Teknis,  Swipe Halaman Untuk Merefresh</string>
+    <string name="refresh">Refresh</string>
+    <string name="success_add">Sukses Ditambahkan ke Favorite</string>
+    <string name="success_remove">Sukses Dihapus dari Daftar Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="change_lang">Ubah Bahasa</string>
+    <string name="reminder_every_9am">Reminder Tiap Jam 9 Pagi</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="reminder">Reminder</string>
+    <string name="cancel_alarm">Alarm Berulang Dibatalkan</string>
+    <string name="yuk">Yuk Cek Aplikasi Github</string>
+    <string name="my_awesome_title">My awesome title</string>
+    <string name="back_btn">Tombol Kembali</string>
+    <string name="profile_pic">Gambar Profile</string>
+    <string name="translate">terjemahan</string>
+    <string name="splash_screen">splash screen</string>
+    <string name="potop">Foto Profile</string>
+</resources>

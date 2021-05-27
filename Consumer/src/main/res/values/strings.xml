@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumer</string>
+    <string name="photo_profile">Photo Profile</string>
+    <string name="example_user">Contoh User</string>
+    <string name="idle_text">Ayo Mulai Cari Inspirasi di Github</string>
+    <string name="idle_text_fav">Ayo Mulai Cari User Favoritmu di Github</string>
+</resources>

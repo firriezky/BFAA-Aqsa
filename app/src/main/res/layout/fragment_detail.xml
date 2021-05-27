@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.github.florent37.parallax.ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_homie"
+                android:tag="parallax=0.3" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1060dp"
+                android:gravity="center"
+                android:text="My awesome title"
+                android:tag="parallax=0.5" />
+
+        </LinearLayout>
+
+        <!-- ...your usual views... -->
+
+
+        <!-- ...your usual views... -->
+
+    </com.github.florent37.parallax.ScrollView>
+
+</FrameLayout>
